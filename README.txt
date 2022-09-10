@@ -31,9 +31,13 @@ There are two different types of password managers - Offline and Online. Offline
 
 Section VI: Email
 =================
-Tutanota and ProtonMail are two of the best private email services on the Internet. They both provide E2EE, 0 data collection, and other privacy-respecting features. Both can be recommended to just about anyone, and it doesn't quite matter what you choose. I would personally recommend ProtonVPN (as you can use the same account for both your email and your VPN), but this section is mostly subjective. Do some reasearch of your own and choose what you think is right. Another part of email, though, is your email client. Thunderbird is a great choice for this and even comes pre-loaded on a few Linux distros.
+Tutanota and ProtonMail are two of the best private email services on the Internet. They both provide E2EE, 0 data collection, and other privacy-respecting features. Both can be recommended to just about anyone, and it doesn't quite matter what you choose. I would personally recommend Proton (as you can use the same account for both your email and your VPN), but this section is mostly subjective. Do some reasearch of your own and choose what you think is right. Another part of email, though, is your email client. Thunderbird is a great choice for this and even comes pre-loaded on a few Linux distros.
 
-Section VII: Social Media
+Section VII: Smartphones
+========================
+People take the smartphones everywhere, and those smartphones are tracking exactly what their users say, what they do, and where they go. Most people think that the only two mobile operating systems are iOS and Android, and so they simply use one of the two, and let the phones track them. But here's the thing - Android is open source. This means that anyone can see the code and modify it. That's how custom ROMs were born. The two most popular Android forks are GrapheneOS and CalyxOS. GrapheneOS is better than CalyxOS, and I can say for certain that it is the only mobile OS that you should be using. It's essentially a better, De-Googled Android. You can use F-Droid and the Aurora Store for apps. To use GrapheneOS you will need one of the compatible phones (Your best choice is a Pixel). If you want to take it a step further, you can tear out the camera, microphone, and other potentially malicious pieces of hardware. The best way to do this is to watch teardown videos of whatever phone you have, locate what you want to get rid of, and safely remove it.
+
+Section VIII: Social Media
 =========================
 Social media is bad in just about every way. It's terrible for mental health, it ruins attention span, it's a timesink, it's terrible for privacy and security, and so on. My advice to you is to quit it. It will benefit you in just about every way, privacy included. If you really, really need it, there's a few options for you. Invidious is a Youtube frontend (Check out https://yewtu.be) for those who don't want to abandon Youtube, Nitter is a private Twitter frontend (https://nitter.net), and Signal is the gold standard for messanging apps (Ditch WhatsApp and Telegram! https://signal.org). 
 
