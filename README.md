@@ -63,48 +63,48 @@ Startpage gets its results from Google. If you like Google results and don't wan
 <details>
 <summary>ProtonVPN</summary>
 <br>
-Proton is a free, privacy-respecting company based in Switzerland. They offer a number of services (VPNs, email, cloud storage) and they're a generally well-trusted company in the field. Their VPN is the only trusted free VPN out there.
+Proton is a free, privacy-respecting company based in Switzerland. They offer a number of services (VPNs, email, cloud storage) and they're a generally well-trusted company in the field. Their VPN is the only good free VPN out there.
 </details>
 <details>
 <summary>Mullvad</summary>
 <br>
-[Under development]
+Mullvad is a paid VPN that can be purchased with cryptocurrency. Mullvad has a strict no-logs policy and follows the idea of "privacy is a human right." Being a paid VPN makes it much more trustworthy, since they're less inclined to collect and sell your data. If you can spare the money Mullvad is the way to go.
 </details>
 
 ### Section V: Password managers
 <details>
 <summary>Bitwarden</summary>
 <br>
-[Under development]
+Bitwarden is a cloud-based password manager. This means that your passwords will be synced across devices and can be accessed from your browser as well as desktop applications. It's free and open source software, and while it's not as good of a choice as KeepassXC, it's pretty good. The obvious problem with this is that if it gets hacked your passwords may be exposed.
 </details>
 <details>
 <summary>KeepassXC</summary>
 <br>
-[Under development]
+KeepassXC is an offline password manager that stores your data in an encrypted, local database. You can easily put this database on an encrypted USB drive for more protection and portability. It will cost you a bit of convinience (Since you won't be able to access your passwords unless you have it on you), but you gain a lot of security.
 </details>
 
 ### Section VI: Email
 <details>
 <summary>ProtonMail</summary>
 <br>
-[Under development]
+As I mentioned before, Proton is a company whose whole philosophy is privacy and security. ProtonMail offers E2EE, 0 data collection, and peace of mind that your personal information is safe. In fact, you don't even need a phone number to sign up for this service. It's more widely used that Tutanota (Your other option when it comes to email), and can be used both as an email and a VPN service.
 </details>
 <details>
 <summary>Tutanota</summary>
 <br>
-[Under development]
+Tutanota is another privacy-respecting email service. They also offer E2EE, a good privacy policy, etc. but there's one major downside to Tutanota - they don't allow you to contact users from external providers. They do this to protect you, but it can be quite inconvinient at times.
 </details>
 <details>
 <summary>TempMail</summary>
 <br>
-[Under development]
+While Proton and Tutanota are meant to be used for long-term email addresses, TempMail allows for you to have quick, temporary emails. It's good to use whenever a website requires an email to use, or when you need to make a throwaway account. You'll save yourself from a lot of junk mail, and you might find yourself using it a lot more than you expected.
 </details>
 
 ### Section VII: Smartphones
 <details>
 <summary>GrapheneOS</summary>
 <br>
-[Under development]
+The two major mobile operating systems are iOS and Android. Even though Google adds a lot of spyware to their mobile devices, Android is actual open source at its core. Because of this, FOSS enthusiasts forked it and created GrapheneOS (Aka GOS). GrapheneOS is a de-Googled Android that provides some amazing features such as sandboxing, F-Droid appstore, and more. I recommend you take a look at https://grapheneos.org/features, and maybe watch a few Youtube videos on the subject. 
 </details>
 
 ### Section VIII: Alternatives
