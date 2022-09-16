@@ -61,6 +61,11 @@ Startpage gets its results from Google. If you like Google results and don't wan
 
 ### Section IV: VPNs
 <details>
+<summary>Warning</summary>
+<br>
+VPNs are not good for anonymity or privacy! They're good at hiding your IP from attackers and protecting your data from your ISP, but nothing more. You should be using Tor if that's what you want. You also take on an additional risk of your VPN logging your information.
+</details>
+<details>
 <summary>ProtonVPN</summary>
 <br>
 Proton is a free, privacy-respecting company based in Switzerland. They offer a number of services (VPNs, email, cloud storage) and they're a generally well-trusted company in the field. Their VPN is the only good free VPN out there.
