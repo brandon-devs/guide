@@ -138,3 +138,20 @@ https://matrix.org - https://xmpp.org - https://signal.org
 <br>
 https://gitlab.com - https://codeberg.org - https://bitbucket.org/
 </details>
+
+### Section IX: Payment Methods
+<details>
+<summary>Privacy.Com</summary>
+<br>
+Privacy.Com is a service that allows you to create virtual payment cards for one-time purchases or subscriptions directly from your browser. You can set spend limits, pause, unpause, and close cards any time you want. Because many online sites don't accept crypto and require a card, Privacy.Com exists to let you pay with cards anonymously. It's especially great for free trials.
+</details>
+<details>
+<summary>Monero</summary>
+<br>
+Monero is a cryptocurrency, specifically a privacy coin. Just like all cryptocurrencies, it utilizes the blockchain to decentralize you, your money, and your data. It's an extremely secure coin (even moreso than something like Bitcoin) and is meant to be used as an alternative payment method. Some stores accept Monero directly (see https://www.acceptedhere.io/catalog/currency/xmr/), and some stores you can purchase gift cards for with Monero (see https://coincards.com/us/)
+</details>
+<details>
+<summary>Cash</summary>
+<br>
+Cash is absolutely the most secure out of these 3, but of course you can't pay online with it. If you're purchasing something in real life, USE CASH. It is far more private than a credit card.
+</details>
