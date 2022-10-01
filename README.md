@@ -126,7 +126,7 @@ https://nitter.net - https://mastodon.social
 <details>
 <summary>Reddit</summary>
 <br>
-https://teddit.com - https://libredd.it - https://lobste.rs
+https://teddit.net - https://libredd.it - https://lobste.rs
 </details>
 <details>
 <summary>Discord</summary>
